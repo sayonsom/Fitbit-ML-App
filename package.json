@@ -1,0 +1,11 @@
+{
+  "name": "fitbitproject",
+  "version": "1.0.0",
+  "description": "This is a machine learning project using Fitbit Data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayonsom Chanda",
+  "license": "MIT"
+}
